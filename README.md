@@ -1,4 +1,4 @@
- <p style="text-align: center;"align="center">➤ <a href="https://github.com/whoresmad/Kryptos/blob/main/Kryptos.py">Kryptos Src</a> ☆</p>
+ <p style="text-align: center;"align="center">➤ <a href="https://github.com/RemoteTool/Kryptos/blob/main/Kryptos.py">Kryptos Src</a> ☆</p>
 
 
 <p style="text-align: center;"align="center"> <img src= https://static.wikia.nocookie.net/powerlisting/images/d/d2/Gravity_Falls_Bill_Cipher_Deer_Teeth.gif/revision/latest?cb=20200324015050>
@@ -10,7 +10,7 @@
   (I'm not responsible for any damages that you will cause with this).
 ```
   
-<p style="text-align: center;"align="center">☛ <a href="https://discord.gg/p9m6J7Nu">Discord Server</a>♡</p>
+<p style="text-align: center;"align="center">☛ <a href="https://discord.gg/feared">Discord Server</a>♡</p>
 
 
 
