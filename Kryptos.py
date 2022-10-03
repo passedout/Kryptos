@@ -8,7 +8,7 @@ from colorama import *
 
 os.system('cls')
 time.sleep(1)
-os.system(f'cls & mode 85,20 & title Kryptos | beam was here')
+os.system(f'cls & mode 85,20 & title Kryptos | exte was here')
 Write.Print("""
                      :::!~!!!!!:.
                   .xUHWH!! !!?M88WHX:.
