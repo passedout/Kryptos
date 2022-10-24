@@ -10,7 +10,7 @@
   (I'm not responsible for any damages that you will cause with this).
 ```
   
-<p style="text-align: center;"align="center">☛ <a href="https://discord.gg/rtx">Discord Server</a>♡</p>
+<p style="text-align: center;"align="center">☛ <a href="https://discord.gg/d6H9BsFw4b">Discord Server</a>♡</p>
 
 
 
